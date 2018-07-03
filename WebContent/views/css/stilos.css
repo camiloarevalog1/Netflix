@@ -1,0 +1,36 @@
+
+.navbar-header img {
+	width: 110px;
+	height: 70px;
+
+}
+#cabezera{
+    background: #B3E5FC;
+}
+
+.imag{
+	width: 300px;
+	height: 150px;
+}
+#img1{
+	vertical-align: middle;
+
+}
+.imgcon{
+	width: 150px;
+	height: 150px
+}
+picture img {
+	width: 100%;
+	
+}
+#border{
+    border-style:ridge;
+}
+#letra{
+    font-family:Comic Sans MS;
+    font-size: 40px;
+}
+.ufpsi{
+	width: 600px;
+}
